@@ -1,7 +1,7 @@
 # wp_hacked
 
 Few days ago my wp site got hacked by http://kacottagexk.kenrei.top/ .
-I found the hell file in my index.php and folders
+I found the shell file in my index.php and folders
 It creating fake sitemap and generating fake html pages to google bot and storing user password into plugins/log.txt
 
 ## How to stop
