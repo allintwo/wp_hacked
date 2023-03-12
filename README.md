@@ -25,3 +25,6 @@ When user visit using bot indexed list thay will able to see their product.
 
 I have installed plugin name wp-filemanager-pro. This plugin have backdoor.
 My login limit was not limited so hacker was attact brute force and xmlrpc.php .
+
+
+hacker mail: shreyasharmasky@gmail.com
